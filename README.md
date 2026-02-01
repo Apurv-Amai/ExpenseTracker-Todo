@@ -9,7 +9,7 @@ To run the application, follow these steps:
 1. **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/Apurva-Amai/ExpenseTracker-Todo.git
+   git clone https://github.com/Apurv-Amai/ExpenseTracker-Todo.git
 ```
 
 2. **Navigate to the Project Directory:**
